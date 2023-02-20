@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="7" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-20T16:58:48Z" name="Suite" finished-at="2023-02-20T17:00:33Z" duration-ms="105023">
+    <groups>
+    </groups>
+    <test started-at="2023-02-20T16:58:48Z" name="Test" finished-at="2023-02-20T17:00:33Z" duration-ms="105023">
+      <class name="com.invicta.qa.testcases.login.LoginTest">
+        <test-method is-config="true" signature="main()[pri:0, instance:com.invicta.qa.testcases.login.LoginTest@7a0f244f]" started-at="2023-02-20T16:58:32Z" name="main" finished-at="2023-02-20T16:58:48Z" duration-ms="15921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method signature="Login()[pri:0, instance:com.invicta.qa.testcases.login.LoginTest@7a0f244f]" started-at="2023-02-20T16:58:48Z" name="Login" finished-at="2023-02-20T16:58:54Z" duration-ms="6094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="closeChrome()[pri:0, instance:com.invicta.qa.testcases.login.LoginTest@7a0f244f]" started-at="2023-02-20T17:00:33Z" name="closeChrome" finished-at="2023-02-20T17:00:33Z" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeChrome -->
+      </class> <!-- com.invicta.qa.testcases.login.LoginTest -->
+      <class name="com.invicta.qa.testcases.dashboard.DashboardTest">
+        <test-method signature="Dashboard()[pri:0, instance:com.invicta.qa.testcases.dashboard.DashboardTest@3672276e]" started-at="2023-02-20T16:58:54Z" name="Dashboard" finished-at="2023-02-20T16:58:59Z" duration-ms="4271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dashboard -->
+      </class> <!-- com.invicta.qa.testcases.dashboard.DashboardTest -->
+      <class name="com.invicta.qa.testcases.sbu.AddSbuinitialTestCases">
+        <test-method signature="testcase()[pri:0, instance:com.invicta.qa.testcases.sbu.AddSbuinitialTestCases@4248b963]" started-at="2023-02-20T16:58:59Z" name="testcase" finished-at="2023-02-20T17:00:33Z" duration-ms="94608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+      </class> <!-- com.invicta.qa.testcases.sbu.AddSbuinitialTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
